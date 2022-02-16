@@ -1,0 +1,11 @@
+{
+  "name": "estag-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:EduardoFerreira95/estag-template.git",
+  "author": "Eduardo Ferreira <eduardoferreira@wine.com.br>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
+}
