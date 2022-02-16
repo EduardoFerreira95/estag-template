@@ -1,0 +1,1 @@
+export type Diseases = 'AIDS' | 'Câncer' | 'Alzheimer';
