@@ -1,7 +1,4 @@
-
 ![Wine - JS Testing Grounds](https://img.wine.com.br/logo/wine/black/wine.svg)
-
-This is a vanilla JS boilerplate used for building the fundamentals of javascript.
 
 ## What is inside?
 
@@ -59,5 +56,32 @@ yarn test:watch
 
 ## Learn More
 
-To learn more about this template and other features, contact Eduardo Ferreira
+To learn more about this template and other features, contact Eduardo Ferreira or João Manoel
 through the wine discord channel.
+
+# Project
+
+## São Judas Hospital
+Hospital que cuida de pacientes com câncer, aids e alzheimer. 
+
+## 🚀 Desafio 
+O desafio é criar funcionalidades voltadas para os usuários do hospital. São elas:
+- Buscar usuário por id/email (funcionalidades separadas)
+- Deletar usuário por id/email (funcionalidades separadas)
+- Deletar todos os usuários do sistema
+- Criar usuário
+- Editar usuário
+- Pegar a quantidade de usuários atual do sistema
+- Buscar a quantidade de usuários que possuem câncer, AIDS e alzheimer (funcionalidades separadas)
+
+## Arquitetura do projeto
+O app é dividido em duas estruturas de pastas:
+- **Services**: São os serviços que deverão ser implementados conforme descrição acima
+- **Types**: Tipos que o desenvolvedor usará no decorrer da aplicação.
+
+Mais detalhes [aqui!](https://whimsical.com/PxAkk45kKMd6CazfV79eif)
+
+## Objetivo
+O objetivo é fazer todos os testes das funcionalidades passarem de acordo com os níveis atingidos na aplicação.
+Primeiramente iremos trabalhar com funcionalidades de forma sincronas e em seguida assícronas (clients http).
+
