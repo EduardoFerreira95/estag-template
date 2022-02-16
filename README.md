@@ -85,3 +85,8 @@ Mais detalhes [aqui!](https://whimsical.com/PxAkk45kKMd6CazfV79eif)
 O objetivo é fazer todos os testes das funcionalidades passarem de acordo com os níveis atingidos na aplicação.
 Primeiramente iremos trabalhar com funcionalidades de forma sincronas e em seguida assícronas (clients http).
 
+## Project Rules
+### - All those commits needs to follow this conventional commits: `chore`, `improvement`, `feat`, `fix`, `test` and `revert`.
+### - All changes needs to create a branch and open a Pull Request.
+### - Disable lint lines will not permitted.
+### - Types `any` will not permitted.
