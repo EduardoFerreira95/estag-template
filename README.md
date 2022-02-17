@@ -52,7 +52,7 @@ yarn test:watch
 - `lint`: runs the linter in all components and pages
 - `test`: runs jest to test all components and pages
 - `test:watch`: runs jest in watch mode
-- `test:path {PATH}`: runs jest watch mode only at certain directorty 
+- `test:path {PATH}`: runs jest watch mode only at certain directorty
 
 ## Learn More
 
@@ -62,9 +62,9 @@ through the wine discord channel.
 # Project
 
 ## São Judas Hospital
-Hospital que cuida de pacientes com câncer, aids e alzheimer. 
+Hospital que cuida de pacientes com câncer, aids e alzheimer.
 
-## 🚀 Desafio 
+## 🚀 Desafio
 O desafio é criar funcionalidades voltadas para os usuários do hospital. São elas:
 - Buscar usuário por id/email (funcionalidades separadas)
 - Deletar usuário por id/email (funcionalidades separadas)
@@ -86,7 +86,7 @@ O objetivo é fazer todos os testes das funcionalidades passarem de acordo com o
 Primeiramente iremos trabalhar com funcionalidades de forma sincronas e em seguida assícronas (clients http).
 
 ## Project Rules
-- All those commits needs to follow this conventional commits: `chore`, `improvement`, `feat`, `fix`, `test` and `revert`.
+- All those commits needs to follow these conventional commits: `chore`, `improvement`, `feat`, `fix`, `test` and `revert`.
 - All changes needs to create a branch and open a Pull Request.
 - Disable lint lines **will not** permitted.
 - Types `any` **will not** permitted.
